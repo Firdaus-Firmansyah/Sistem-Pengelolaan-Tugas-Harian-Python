@@ -18,7 +18,7 @@ Database: SQLite
 
 Cara Menggunakan
 Clone repository ini:
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/Firdaus-Firmansyah/repository-name.git
 
 Masuk ke direktori project:
 cd repository-name
